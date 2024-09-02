@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YOUTUBE-CLONE-USING-REACTJS/static/css/main.3d3ecefc.css",
+    "main.js": "/YOUTUBE-CLONE-USING-REACTJS/static/js/main.f2613a70.js",
+    "index.html": "/YOUTUBE-CLONE-USING-REACTJS/index.html",
+    "main.3d3ecefc.css.map": "/YOUTUBE-CLONE-USING-REACTJS/static/css/main.3d3ecefc.css.map",
+    "main.f2613a70.js.map": "/YOUTUBE-CLONE-USING-REACTJS/static/js/main.f2613a70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d3ecefc.css",
+    "static/js/main.f2613a70.js"
+  ]
+}
